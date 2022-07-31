@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data Files for Project 1
+/PROJECT-1. Анализ вакансий из HeadHunter/data/dst-3.0_16_1_hh_database.csv
